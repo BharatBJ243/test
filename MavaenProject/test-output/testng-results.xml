@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30645" started-at="2020-12-25T13:44:47Z" finished-at="2020-12-25T13:45:17Z">
+  <suite name="Default suite" duration-ms="15931" started-at="2020-12-25T14:06:06Z" finished-at="2020-12-25T14:06:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30645" started-at="2020-12-25T13:44:47Z" finished-at="2020-12-25T13:45:17Z">
+    <test name="Default test" duration-ms="15931" started-at="2020-12-25T14:06:06Z" finished-at="2020-12-25T14:06:22Z">
       <class name="com.Qspi.MavaenProject.Demo">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.Qspi.MavaenProject.Demo@1057a39]" name="test" duration-ms="30049" started-at="2020-12-25T13:44:47Z" finished-at="2020-12-25T13:45:17Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.Qspi.MavaenProject.Demo@1057a39]" name="test" duration-ms="15825" started-at="2020-12-25T14:06:06Z" finished-at="2020-12-25T14:06:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
